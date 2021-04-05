@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_200_800/0/1600774582457?e=1620259200&v=beta&t=vXT6lMDE7ZIkd9OGzG5yLkRLmTDt0kijoQ-ly73bM3U)](https://github.com/arifislamfx)
+[![MasterHead](https://raw.githubusercontent.com/arifislamfx/play-with-api/main/img/nea%20(1).png)](https://github.com/arifislamfx)
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">A passionate frontend web design & developer.</h3>
 
