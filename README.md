@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/arifislamfx/play-with-api/main/img/nea%20(1).png)
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arifislamfx/play-with-api/main/img/nea%20(1).png">
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">A passionate frontend web design & developer.</h3>
